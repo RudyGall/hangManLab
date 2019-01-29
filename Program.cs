@@ -11,7 +11,7 @@ namespace HangManStarterKit
         static void Main(string[] args)
         {
             //////******UNCOMMENT OUT THE PLAYER YOU WOULD LIKE TO PLAY******//////
-            
+
 
             //Player p1 = new ABCplayer();
             //HangmanGame hg1 = new HangmanGame(p1);
