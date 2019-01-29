@@ -22,8 +22,8 @@ namespace HangManStarterKit
             //Player p3 = new BruteForcePlayer();
             //HangmanGame hg3 = new HangmanGame(p3);
 
-            //Player p4 = new SmartyPlayer();
-            //HangmanGame hg4 = new HangmanGame(p4);
+            Player p4 = new SmartyPlayer();
+            HangmanGame hg4 = new HangmanGame(p4);
 
             //Player p5 = new RandomPlayer();
             //HangmanGame hg5 = new HangmanGame(p5);
